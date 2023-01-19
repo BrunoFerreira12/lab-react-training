@@ -1,0 +1,21 @@
+.id-card {
+    width: 50%;
+    margin:2%;
+    border:3px solid black;
+    display: flex;
+    justify-content: flex-start;
+}
+.id-card img {
+    margin: 5px;
+}
+
+.id-card-information{
+    margin: 1px;
+   display:flex;
+   flex-direction: column;
+   align-content: flex-start;
+}
+
+.id-card-information p {
+    margin: 1px;
+}
