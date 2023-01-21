@@ -19,6 +19,7 @@ return(
     <div className="exp-bank-and-owner">
         <div className="exp-and-bank">
             <p>Expires {expirationMonth} / {expirationYear}</p>
+            <p>{owner}</p>
             <p>{bank}</p>
         </div>
     </div>

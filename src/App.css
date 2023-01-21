@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.driver-card-allDrivers {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,24 @@
+.driver-card {
+color:white;
+background-color:blue;
+border-radius: 20px;
+margin:5px;
+padding: 10px;
+display:flex;
+flex-direction: row;
+gap: 40%;
+justify-content: flex-start;
+}
+.driver-picture {
+width: 20px;
+}
+.driver-picture img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 400px;
+}
+.driver-inf {
+    margin-top: 2%;
+
+}

@@ -24,6 +24,10 @@ font-weight: 500;
 .exp-bank-and-owner p {
     margin: 0;
 }
-.exp-and-banck {
+.exp-and-bank {
+    display: flex;
+    flex-direction: column;
+}
+.credit-card-group{
     display: flex;
 }
